@@ -12,7 +12,7 @@ A software change request is a formal proposal to modify a software system. It s
 
 ## User story for a drawing application
 
-As a digital artist, I want to export my drawing as a PNG file so that I can share it on social media and preserve image quality.
+As a diagram designer, I want to draw triangle shapes so that I can create standard flowchart decision nodes.
 
 ## Why write user stories from the user's perspective
 

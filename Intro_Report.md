@@ -1,4 +1,4 @@
-# Maven build system and GitHub flow
+git checkout -b feature/your-feature-name origin/develop# Maven build system and GitHub flow
 
 ## Purpose of the Maven build system
 
